@@ -1,0 +1,13 @@
+{
+  "name": "Royal-Spring-Libraries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Akem-Ben/Royal-Spring-Libraries.git",
+  "author": "Akem-Ben <107713743+Akem-Ben@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.4"
+  }
+}
